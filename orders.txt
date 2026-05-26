@@ -1,1 +1,8 @@
-no orders yet
+order1:
+   tv
+   ac
+order2:
+    washing machine
+order3:
+    tv
+    washing machine
