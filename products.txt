@@ -1,4 +1,6 @@
 washing machine-40000
 tv-89000
 ac-789111
-
+fridge-40000
+cooler-25000
+bed-50000
